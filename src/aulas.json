@@ -1,0 +1,69 @@
+{
+	"aulas": [
+		{
+			"sigla": "PDC-II",
+			"nome": "Programação de Computadores II",
+			"professor": "Leguth",
+			"sala": "Info 1",
+			"teamsURL": "https://teams.microsoft.com/l/team/19%3agwjZkThjJk-bortW7g9L8PFKS89-KJPwDY0qLsxbO_w1%40thread.tacv2/conversations?groupId=19b42f9e-0d70-4c63-ab41-7eb7ad308679&tenantId=ed38466c-b641-437d-9ae9-d801b829fa94"
+		},
+		{
+			"sigla": "PDC-II",
+			"nome": "Programação de Computadores II",
+			"professor": "Leguth",
+			"sala": "Info 1",
+			"teamsURL": "https://teams.microsoft.com/l/team/19%3agwjZkThjJk-bortW7g9L8PFKS89-KJPwDY0qLsxbO_w1%40thread.tacv2/conversations?groupId=19b42f9e-0d70-4c63-ab41-7eb7ad308679&tenantId=ed38466c-b641-437d-9ae9-d801b829fa94"
+		},
+		{
+			"sigla": "RCD",
+			"nome": "Redes de Comunicação de Dados I",
+			"professor": "Débora",
+			"sala": "Info Mec",
+			"teamsURL": "https://teams.microsoft.com/l/team/19%3a6u28qGj9UGj92kTN_aF6C0cUOczLTugg_2QOiARhlu81%40thread.tacv2/conversations?groupId=a536c545-f229-4863-9357-222437979f79&tenantId=ed38466c-b641-437d-9ae9-d801b829fa94"
+		},
+		{
+			"sigla": "RCD",
+			"nome": "Redes de Comunicação de Dados I",
+			"professor": "Débora",
+			"sala": "Info Mec",
+			"teamsURL": "https://teams.microsoft.com/l/team/19%3a6u28qGj9UGj92kTN_aF6C0cUOczLTugg_2QOiARhlu81%40thread.tacv2/conversations?groupId=a536c545-f229-4863-9357-222437979f79&tenantId=ed38466c-b641-437d-9ae9-d801b829fa94"
+		},
+		{
+			"sigla": "SBD",
+			"nome": "Suporte e Banco de Dados",
+			"professor": "Mônica",
+			"sala": "Info 2"
+		},
+		{
+			"sigla": "SI",
+			"nome": "Suporte em Informática",
+			"professor": "Mônica",
+			"sala": "Info 2"
+		},
+		{
+			"sigla": "PTCC",
+			"nome": "Planejamento do Trabalho de Conclusão de Curso",
+			"professor": "Cristiano",
+			"sala": "Info 6"
+		},
+		{
+			"sigla": "GSO-II",
+			"nome": "Gestão de Sistemas Operacionais II",
+			"professor": "Juliana",
+			"sala": "Info 6"
+		},
+		{
+			"sigla": "OCA-II",
+			"nome": "Operação e Configuração de Aplicativos II",
+			"professor": "Juliana",
+			"sala": "Info 6",
+			"teamsURL": "https://teams.microsoft.com/l/team/19%3aULMpRM6aeLf08KNtQ0BYt4GMViFf7cbj_Tkan-uOSmQ1%40thread.tacv2/conversations?groupId=1ba6490d-4f3a-4ad0-ae26-4f2846a2e79c&tenantId=ed38466c-b641-437d-9ae9-d801b829fa94"
+		},
+		{
+			"sigla": "PTCC",
+			"nome": "Planejamento do Trabalho de Conclusão de Curso",
+			"professor": "Cristiano",
+			"sala": "Info 6"
+		}
+	]
+}
