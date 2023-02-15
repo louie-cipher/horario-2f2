@@ -32,13 +32,15 @@
 			"sigla": "SBD",
 			"nome": "Suporte e Banco de Dados",
 			"professor": "Mônica",
-			"sala": "Info 2"
+			"sala": "Info 2",
+			"teamsURL": "https://teams.microsoft.com/l/team/19%3aDyv1Ik0eHia8BDpy-wCDgBO5Rgiwjd_BFeP9gtj86VY1%40thread.tacv2/conversations?groupId=a3c894f5-4649-4a0c-bca3-a87784f0ff8d&tenantId=ed38466c-b641-437d-9ae9-d801b829fa94"
 		},
 		{
-			"sigla": "SI",
+			"sigla": "SEI",
 			"nome": "Suporte em Informática",
 			"professor": "Mônica",
-			"sala": "Info 2"
+			"sala": "Info 2",
+			"teamsURL": "https://teams.microsoft.com/l/team/19%3ah9lMVApedisoZXF1YfDsNQiBER7ChmOwtL2UI_loL7Y1%40thread.tacv2/conversations?groupId=3c2e82f5-1928-4cae-a841-57d01262bb02&tenantId=ed38466c-b641-437d-9ae9-d801b829fa94"
 		},
 		{
 			"sigla": "PTCC",
