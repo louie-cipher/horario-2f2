@@ -46,13 +46,15 @@
 			"sigla": "PTCC",
 			"nome": "Planejamento do Trabalho de Conclusão de Curso",
 			"professor": "Cristiano",
-			"sala": "Info 6"
+			"sala": "Info 6",
+			"teamsURL": "https://teams.microsoft.com/l/team/19%3aMN-VxzywBogDCv4AghNU7x9QZAbz9THvh3TR21OVXuo1%40thread.tacv2/conversations?groupId=01d7b079-e15c-4f25-9f7e-8f568e7f501e&tenantId=ed38466c-b641-437d-9ae9-d801b829fa94"
 		},
 		{
 			"sigla": "GSO-II",
 			"nome": "Gestão de Sistemas Operacionais II",
 			"professor": "Juliana",
-			"sala": "Info 6"
+			"sala": "Info 6",
+			"teamsURL": "https://teams.microsoft.com/l/team/19%3a8aBkE3BubwdwOQWeh_Rzae_XiybS_dxXYbvVM6ALBBY1%40thread.tacv2/conversations?groupId=7656d745-2bf8-49c3-bd41-d860c664e2d9&tenantId=ed38466c-b641-437d-9ae9-d801b829fa94"
 		},
 		{
 			"sigla": "OCA-II",
@@ -65,7 +67,8 @@
 			"sigla": "PTCC",
 			"nome": "Planejamento do Trabalho de Conclusão de Curso",
 			"professor": "Cristiano",
-			"sala": "Info 6"
+			"sala": "Info 6",
+			"teamsURL": "https://teams.microsoft.com/l/team/19%3aMN-VxzywBogDCv4AghNU7x9QZAbz9THvh3TR21OVXuo1%40thread.tacv2/conversations?groupId=01d7b079-e15c-4f25-9f7e-8f568e7f501e&tenantId=ed38466c-b641-437d-9ae9-d801b829fa94"
 		}
 	]
 }
