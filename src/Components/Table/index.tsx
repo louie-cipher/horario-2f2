@@ -8,7 +8,7 @@ export interface Aula {
 	nome: string;
 	professor: string;
 	sala: string;
-	teamsURL?: string;
+	teamsURL: string;
 }
 
 export default () => {
@@ -28,15 +28,7 @@ export default () => {
 				<tr className='table-column'>
 					<td className='table-time'>13:30 - 15:35</td>
 					{aulasPreIntervalo.map((aula, i) => (
-						<TableCell
-							key={i}
-							sigla={aula.sigla}
-							nome={aula.nome}
-							professor={aula.professor}
-							sala={aula.sala}
-							teamsURL={aula.teamsURL}
-							isToday={i === todayWeekday - 2}
-						/>
+						<TableCell key={i} aula={aula} isToday={i === todayWeekday - 2} />
 					))}
 				</tr>
 
@@ -52,15 +44,7 @@ export default () => {
 				<tr className='table-column'>
 					<td className='table-time'>15:55 - 18:00</td>
 					{aulasPosIntervalo.map((aula, i) => (
-						<TableCell
-							key={i}
-							sigla={aula.sigla}
-							nome={aula.nome}
-							professor={aula.professor}
-							sala={aula.sala}
-							teamsURL={aula.teamsURL}
-							isToday={i === todayWeekday - 2}
-						/>
+						<TableCell key={i} aula={aula} isToday={i === todayWeekday - 2} />
 					))}
 				</tr>
 			</tbody>

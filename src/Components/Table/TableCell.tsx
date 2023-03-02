@@ -1,29 +1,25 @@
+import { Aula } from '.';
+
 interface TableCellProps {
-	sigla: string;
-	nome: string;
-	professor: string;
-	sala: string;
+	aula: Aula;
 	isToday?: boolean;
-	teamsURL?: string;
 }
 
-export default ({ sigla, nome, professor, sala, isToday, teamsURL }: TableCellProps) => {
+export default ({ aula, isToday }: TableCellProps) => {
 	return (
 		<td className={isToday ? 'today-table-cell' : 'table-cell'}>
 			<div className='table-cell-content'>
-				<div className='table-cell-content-title'>{sigla}</div>
-				<div className='table-cell-content-subtitle'>{nome}</div>
+				<div className='table-cell-content-title'>{aula.sigla}</div>
+				<div className='table-cell-content-subtitle'>{aula.nome}</div>
 				<div className='table-cell-content-subtitle'>
-					<b>Prof:</b> {professor}
+					<b>Prof:</b> {aula.professor}
 				</div>
 				<div className='table-cell-content-subtitle'>
-					<b>Sala:</b> {sala}
+					<b>Sala:</b> {aula.sala}
 				</div>
-				{teamsURL && (
-					<a href={teamsURL} target='_blank' rel='noreferrer'>
-						<div className='table-cell-content-subtitle'>Equipe no Teams</div>
-					</a>
-				)}
+				<a href={aula.teamsURL} target='_blank' rel='noreferrer'>
+					<div className='table-cell-content-subtitle'>Equipe no Teams</div>
+				</a>
 			</div>
 		</td>
 	);

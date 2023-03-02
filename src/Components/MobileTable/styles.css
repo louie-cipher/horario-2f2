@@ -1,0 +1,46 @@
+.table {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.mobile-table-header {
+	margin: 0;
+	padding: 10px 0;
+	text-align: center;
+	justify-content: center;
+	line-height: 1;
+	background-color: #fff3;
+	color: white;
+}
+
+.mobile-interval-table-header {
+	margin: 0;
+	line-height: 1;
+	text-align: center;
+	justify-content: center;
+	background-color: #0004;
+}
+
+.today-table-header {
+	padding: 10px 30px;
+	text-align: center;
+	justify-content: center;
+	background-color: #fff8;
+	color: white;
+}
+
+.mobile-interval-table-cell {
+	background-color: #00000000;
+}
+
+.mobile-today-table-day {
+	text-align: center;
+	background-color: #000a;
+}
+
+.mobile-table-day {
+	text-align: center;
+	background-color: #0005;
+}
